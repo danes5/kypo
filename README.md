@@ -1,9 +1,9 @@
-##Client:
+## Client:
  **Redirect:**
   - add next line to /etc/hosts\
       <Server_IP>   hogwarts.ho
 
-##Server:
+## Server:
  **Database:**
   - mysql 5.5.54 or higher
   - mysql should contains user with name "root" and password "kypo"\
